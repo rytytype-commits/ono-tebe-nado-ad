@@ -5,8 +5,8 @@
 }
 
 body {
-  width: 1100px;
-  margin: 0 auto;
+  min-width: 1100px;
+  margin: 0;
   padding: 0;
   font-family: Raleway, sans-serif;
 }
@@ -36,4 +36,5 @@ img {
 
 button {
   font: inherit;
+  cursor: pointer;
 }
